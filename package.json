@@ -13,8 +13,8 @@
 		"format": "prettier --plugin-search-dir . --write ."
 	},
 	"dependencies": {
+		"@primo-app/primo": "aswasi/primo#master",		
 		"@iconify/svelte": "^2.2.1",
-		"@primo-app/primo": "aswasi/primo#master",
 		"@supabase/supabase-js": "^2.0.0-rc.3",
 		"@sveltejs/kit": "^1.0.0",
 		"axios": "^0.26.0",
