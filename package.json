@@ -12,9 +12,9 @@
 		"lint": "prettier --plugin-search-dir . --check . && eslint .",
 		"format": "prettier --plugin-search-dir . --write ."
 	},
-	"dependencies": {
-		"@primo-app/primo": "aswasi/primo#master",		
+	"dependencies": {	
 		"@iconify/svelte": "^2.2.1",
+		"@primo-app/primo": "^1.7.2",			
 		"@supabase/supabase-js": "^2.0.0-rc.3",
 		"@sveltejs/kit": "^1.0.0",
 		"axios": "^0.26.0",
